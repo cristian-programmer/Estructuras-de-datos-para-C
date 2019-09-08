@@ -15,3 +15,6 @@ Con el tiempo se añadiran muchas otras.
 
 # Open Source
 es un proyecto de codigo abierto, son bienvenidos aquellos que quieran aportar a esta noble causa.
+
+estara un ISSUE abierto para aquellos que quieran participar lo hagan saber por alli, o escribirme al correo
+cristianvg0424@hotmail.com
