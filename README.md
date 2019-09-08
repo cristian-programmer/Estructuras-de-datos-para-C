@@ -1,4 +1,4 @@
-# Estructuras-de-datos-para-C
+# Estructuras de Datos Libreria para C
 Librería que contiene un conjunto de estructuras de datos
 
 El proposito de este repositorio es que los estudiantes puedan tener acceso a una pequeña libreria de las siguientes estructuras de datos:
